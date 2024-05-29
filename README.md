@@ -1,4 +1,4 @@
-# techysoftware_uiux
+# Techy Software Company Website
 This is a tech company website ui/ux design.
 
 
